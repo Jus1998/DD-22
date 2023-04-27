@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Sample  welcome to arun world </h2>
+<h2> Welcome to arun world </h2>
 </body>
 </html>
